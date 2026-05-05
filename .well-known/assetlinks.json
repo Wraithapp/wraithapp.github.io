@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.wraithapp.twa",
+    "sha256_cert_fingerprints": ["27:1A:05:4B:EB:13:8B:10:80:EA:02:CF:2C:6A:CD:17:E9:C8:D7:29:57:D0:E3:45:E5:83:35:3D:C8:D9:74:75"]
+  }
+}]
